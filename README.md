@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m **Pankaj Malakar**
-- 👨‍🎓 I’m Java and .NET Full Stack Developer
+- 👨‍🎓 I’m Full Stack Developer
 - 👀 I’m interested in Web based technology 
 - 🌱 I’m currently learning Web Development Technologies
 - 💞️ I’m looking to collaborate on Web technology projects 
