@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m **Pankaj Malakar**
+- 👋 Hi, I’m **Pankajmalakar05**
 - 👨‍🎓 I’m Full Stack Developer
 - 👀 I’m interested in Web based technology 
 - 🌱 I’m currently learning Web Development Technologies
